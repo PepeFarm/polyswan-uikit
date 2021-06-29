@@ -99,11 +99,11 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/goosedefi/",
+        href: "https://github.com/PepeFarm",
       },
       {
         label: "Docs",
-        href: "https://goosedefi.gitbook.io/goose-finance/",
+        href: "https://docs.pepefarm.finance",
       },
       {
         label: "Blog",
@@ -117,12 +117,12 @@ export const socials = [
   {
     label: "Telegram",
     icon: "TelegramIcon",
-    href: "https://t.me/polyswanfinance"
+    href: "https://t.me/pepefarmfinance"
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/PolySwanFinance",
+    href: "https://twitter.com/PepeFarmFinance",
   },
 ];
 
